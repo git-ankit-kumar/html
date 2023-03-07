@@ -1,0 +1,52 @@
+* {
+ padding: 0%;
+ margin: 0%;
+}
+
+section {
+ height: 30%;
+
+}
+
+DIV {
+ height: 100%;
+ background-size: cover;
+}
+
+header {
+ height: 40%;
+}
+
+nav ul li {
+ display: inline-block;
+ padding: 20px 25px;
+ margin-left: 30px;
+ text-decoration: none;
+}
+
+nav ul li a {
+ color: white;
+ font-size: 25px;
+ font-weight: bold;
+ text-transform: capitalize;
+ text-decoration: none;
+ float: right;
+}
+
+nav ul li a:hover {
+ color: #f9004d;
+}
+
+h2 {
+ color: white;
+ float: left;
+ font-size: 60px;
+}
+
+span {
+ color: orangered;
+}
+
+span:hover {
+ color: #f9004d;
+}

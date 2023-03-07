@@ -1,0 +1,75 @@
+* {
+ padding: 0;
+ margin: 0;
+}
+
+.logo {
+ color: black;
+ font-size: 40px;
+ padding-left: 20px;
+ float: left;
+ padding-top: 10px;
+}
+
+.main {
+ width: 100%;
+
+ background-color: beige;
+ /*background: linear-gradient(to top, rgba(0, 0, 0.5)50%, rgba(0, 0, 0.5))50%, url(https://www.xtrafondos.com/en/wallpaper/3840x2160/7254-sunrise-in-lake-in-the-mountains-scenery.html#&gid=1&pid=2);*/
+ background-size: cover;
+ height: 109vh;
+}
+
+/*.totto {
+ background-color: black;
+ color: orangered;
+ font-size: 30px;
+ font-family: serif;
+ font-style: italic;
+ /*font-weight: 100px;*/
+
+
+.menu {
+ width: 400px;
+ float: left;
+ height: 70px;
+
+}
+
+ul {
+ float: left;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+ul li {
+ list-style: none;
+ margin-left: 62px;
+ margin-top: 27px;
+ font-size: 20px;
+}
+
+ul li a {
+ text-decoration: none;
+ color: orangered;
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bold;
+ transition: 0.4s ease-in-out;
+}
+
+ul li a:hover {
+ color: green
+}
+
+.navbar {
+ width: 1200px;
+ height: 75px;
+ margin: auto;
+}
+
+.icon {
+ width: 200px;
+ float: left;
+ height: 70px;
+}

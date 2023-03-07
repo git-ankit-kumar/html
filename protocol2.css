@@ -1,0 +1,19 @@
+* {
+ padding: 0%;
+ margin: 0%;
+}
+
+h2 wow4 {
+ color: red;
+}
+
+body {
+ /*background-color: red;*/
+}
+
+.wow img {
+ width: 100%;
+ background-size: cover;
+ background-position: center;
+ height: 100%;
+}
